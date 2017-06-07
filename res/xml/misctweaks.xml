@@ -41,6 +41,11 @@
             android:summary="@string/toast_icon_summary"
             android:defaultValue="false" />
 
+        <com.dirtyunicorns.dutweaks.preference.SystemSettingSwitchPreference
+            android:key="dnd_when_call"
+            android:title="@string/dnd_when_call_title"
+            android:summary="@string/dnd_when_call_summary" />
+
         <ListPreference
             android:key="pref_scrollingcache"
             android:dialogTitle="@string/pref_scrollingcache_title"

@@ -766,4 +766,8 @@
     <string name="no_navigation_notif_title">No navigation method reminder</string>
     <string name="no_navigation_notif_summary">Show a notification when there\'s no navigation method enabled</string>
 
+    <!-- In-call DND -->
+    <string name="dnd_when_call_title">In-call do not disturb</string>
+    <string name="dnd_when_call_summary">Auto enable DND during calls</string>
+
 </resources>
