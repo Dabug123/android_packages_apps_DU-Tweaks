@@ -303,6 +303,8 @@
     <string name="qs_tile_title_visibility_title">QS tile titles</string>
     <string name="qs_tile_title_visibility_summary_on">QS tiles titles are now visible</string>
     <string name="qs_tile_title_visibility_summary_off">QS tiles titles are now gone</string>
+	<string name="qs_running_services_title">Running Services Icon</string>
+	<string name="qs_running_services_summary">Disable the tile running services icon in the header</string>
 
     <!-- Do not disturb switch in volume panel -->
     <string name="tuner_full_zen_title">Do not disturb switch</string>
