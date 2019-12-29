@@ -278,4 +278,8 @@
 
     <string name="qs_panel_alpha_title">Background opacity</string>
   
+    <!-- Notification sound/vib -->
+    <string name="notification_sound_vib_screen_on_title">Notification sound if active</string>
+    <string name="notification_sound_vib_screen_on_summary">Play sound and vibration for notifications when screen is on</string>
+
 </resources>
