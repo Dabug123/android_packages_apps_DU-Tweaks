@@ -275,4 +275,10 @@
     <string name="show_lockscreen_media_art_title">Show media art</string>
     <string name="lockscreen_media_art_options_title">Lockscreen media art</string>
 
+    <string name="qs_panel_alpha_title">Background opacity</string>
+  
+</resources>
+ing>
+  
+>>>>>>> 84e062d3... tweaks:qs panel opacity [2/2]
 </resources>

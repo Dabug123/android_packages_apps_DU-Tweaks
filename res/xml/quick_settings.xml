@@ -57,6 +57,14 @@
             android:min="1"
             settings:units="" />
 
+        <com.dirtyunicorns.support.preferences.CustomSeekBarPreference
+            android:key="qs_panel_bg_alpha"
+            android:title="@string/qs_panel_alpha_title"
+            android:max="255"
+            settings:min="100"
+            settings:interval="5"
+            android:defaultValue="255" />
+
         <com.dirtyunicorns.support.preferences.SecureSettingSwitchPreference
             android:key="qs_show_brightness"
             android:title="@string/show_brightness_title"
