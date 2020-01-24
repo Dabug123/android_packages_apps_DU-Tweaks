@@ -16,8 +16,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Dirty Tweaks -->
-    <string name="dirtytweaks_title">Dirty Tweaks</string>
-    <string name="dirtytweaks_summary">Enhance your experience</string>
+    <string name="dirtytweaks_title">Kang Tweaks</string>
+    <string name="dirtytweaks_summary">Franken the tweaks</string>
 
     <!-- The Team -->
     <string name="dialog_team_title">The Team</string>
@@ -201,8 +201,8 @@
     <string name="double_tap_sleep_lockscreen">Double tap to sleep on lockscreen</string>
 
     <!-- DU logo -->
-    <string name="du_logo_title">DU swag</string>
-    <string name="du_logo_summary">Let everyone know that you\'re using DU when they see your screen</string>
+    <string name="du_logo_title">Franken Head</string>
+    <string name="du_logo_summary">Show the world you love the Franken</string>
 
     <!-- Carrier Label -->
     <string name="carrier_options">Select display locations</string>
@@ -277,8 +277,4 @@
 
     <string name="qs_panel_alpha_title">Background opacity</string>
   
-</resources>
-ing>
-  
->>>>>>> 84e062d3... tweaks:qs panel opacity [2/2]
 </resources>
