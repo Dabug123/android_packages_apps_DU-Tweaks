@@ -269,6 +269,7 @@
     <string name="action_volume_panel">Volume panel</string>
     <string name="action_screen_off">Screen off</string>
     <string name="action_screenshot">Screenshot</string>
+    <string name="action_partial_screenshot">Partial Screenshot</string>
 
     <!-- Lockscreen media artwork -->
     <string name="lockscreen_media_blur_title">Media art blur level</string>
