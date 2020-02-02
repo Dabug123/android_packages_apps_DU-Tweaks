@@ -16,6 +16,7 @@
 
 package com.dirtyunicorns.tweaks.fragments;
 
+import android.content.ContentResolver;
 import android.content.Context;
 import android.os.Bundle;
 import android.provider.SearchIndexableResource;
@@ -59,6 +60,11 @@ public class LockscreenItems extends SettingsPreferenceFragment
     @Override
     public int getMetricsCategory() {
         return MetricsProto.MetricsEvent.DIRTYTWEAKS;
+    }
+
+    public static void reset(Context mContext) {
+        ContentResolver resolver = mContext.getContentResolver();
+        LockScreenVisualizer.reset(mContext);
     }
 
     public static final SearchIndexProvider SEARCH_INDEX_DATA_PROVIDER =

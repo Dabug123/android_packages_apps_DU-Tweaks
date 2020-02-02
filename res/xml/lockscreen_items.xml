@@ -35,18 +35,10 @@
         android:key="lockscreen_media_art_options"
         android:title="@string/lockscreen_media_art_options_title">
 
-        <com.dirtyunicorns.support.preferences.SecureSettingSwitchPreference
-            android:key="lockscreen_visualizer"
+        <Preference
             android:title="@string/lockscreen_visualizer_title"
             android:summary="@string/lockscreen_visualizer_summary"
-            android:defaultValue="false" />
-
-        <com.dirtyunicorns.support.preferences.SecureSettingSwitchPreference
-            android:key="ambient_visualizer"
-            android:title="@string/ambient_visualizer_title"
-            android:summary="@string/ambient_visualizer_summary"
-            android:dependency="lockscreen_visualizer"
-            android:defaultValue="false" />
+            android:fragment="com.dirtyunicorns.tweaks.fragments.LockScreenVisualizer" />
 
         <com.dirtyunicorns.support.preferences.SystemSettingSwitchPreference
             android:key="show_lockscreen_media_art"
