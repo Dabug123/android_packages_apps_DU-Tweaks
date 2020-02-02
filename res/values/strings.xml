@@ -284,6 +284,10 @@
     <string name="lockscreen_visualizer_title">Visualizer</string>
     <string name="lockscreen_visualizer_summary">Toggles visualizer display on lockscreen</string>
 
+    <!-- Ambient visualizer -->
+    <string name="ambient_visualizer_title">Ambient visualizer</string>
+    <string name="ambient_visualizer_summary">Shows the visualization bars also on ambient display (but less opaque)</string>
+
     <string name="qs_panel_alpha_title">Background opacity</string>
   
     <!-- Notification sound/vib -->
